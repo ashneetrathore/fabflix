@@ -1,7 +1,7 @@
 # :film_projector: FABFLIX
 
 ## :open_book: OVERVIEW
-Date: June 2024\
+Mar 2024 - Jun 2024\
 Developer(s): Ashneet Rathore
 
 Fabflix is a full-stack movie marketplace with search, browse, and (mock) purchase functionality for 16,000+ movies. Users can explore the movie collection using various filters, view detailed information about movies and actors, add titles to a shopping cart, and complete a digital purchase using a credit card. The application also includes employee-access features to add new movies or actors to the database.
